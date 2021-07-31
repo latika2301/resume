@@ -1,0 +1,54 @@
+{
+	"basics": {
+		"name": "Latika Aggarwal",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/84154101?s=400&u=fcf6d1d9089069f42c6c9fbcda89435e9ca740ab&v=4",
+		"email": "2020KUCP1088@iiitkota.ac.in",
+		"phone": "9351251892",
+	
+		"summary":  "I'm a student of Indian Institute of Information technology,kota,persuing my B.tech in Computer Science and engineering" ,
+		"location": {
+			"address":"New Market,tapukara ",
+			"postalCode": "301707",
+			"city": "Alwar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "latika2301",
+				"url": "https://github.com/latika2301/latika2301"
+			},
+			{
+				"network": "linkedin",
+				"username": "Latika Aggarwal",
+				"url": "https://www.linkedin.com/in/latika-aggarwal-350584207"
+			},
+			{
+				"network": "Instagram",
+				"username": "_latika_2301",
+				"url": "https://www.instagram.com/_latika_2301/"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "jQuery", "C/C++",]
+	}],
+	"interests": [{
+		"name": "Dancing",
+		"keywords": ["dancing"]
+	}],
+	"references": []
+}
