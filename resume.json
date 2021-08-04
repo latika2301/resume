@@ -44,11 +44,11 @@
 
 	"skills": [{
 		"level": "Beginner",
-		"keywords": ["HTML", "CSS", "Javascript", "jQuery", "C/C++",]
+		"keywords": ["HTML", "CSS", "Javascript", "jQuery", "C/C++"]
 	}],
 	"interests": [{
 		"name": "Dancing",
 		"keywords": ["dancing"]
-	}],
-	"references": []
+	}]
+	
 }
